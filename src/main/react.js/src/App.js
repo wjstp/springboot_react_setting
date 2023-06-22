@@ -7,7 +7,6 @@ function App() {
       <img alt='' src={dogimg} width={300} border="1"/>
       <br/><br/>
       <h2>Docker 성공 기원!!!</h2>
-      멍청한 민서기
     </div>
   );
 }
